@@ -12,11 +12,11 @@ layout: page
      ersten Zeile (also hinter dem Namen, bzw. hinter der geschlossenen Klammer
      vom Link) noch zwei Leerzeichen stehen.  -->
 
-[Dr. Pablo Abend](http://www.locatingmedia.uni-siegen.de/pablo-abend/)    
-Universität Siegen
+[Prof. Dr. Pablo Abend](http://www.locatingmedia.uni-siegen.de/pablo-abend/](https://www.burg-halle.de/design/design-studies/design-studies/personen/p/pablo-abend/)    
+Kunsthochschule Halle/S.
 
-[Dr. Azadeh Akbari Kharazi](https://www.uni-muenster.de/Geographie/mitarbeiter/akbari.shtml)  
-Universität Münster
+[Ass.-Prof. Dr. Azadeh Akbari Kharazi]([https://www.utwente.nl/en/bms/pa/staff/akbari/)    
+Universität Twente
 
 [Dr. Serafeim Alvanides](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/S.Alvanides)  
 GESIS Köln, [Northumbria University](https://www.northumbria.ac.uk/about-us/our-staff/a/seraphim-alvanides)
@@ -39,13 +39,13 @@ Referent Forschungsdaten, Universität Bonn
 [Prof. Dr. Marc Boeckler](https://www.uni-frankfurt.de/45478395/01_portrait)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
-[Univ.-Prof. Dr. rer. nat. habil. Tabea Bork-Hüffer](https://www.uibk.ac.at/geographie/personal/bork-hueffer/)  
+[Prof. Dr. Tabea Bork-Hüffer](https://www.uibk.ac.at/geographie/personal/bork-hueffer/)  
 Institut für Geographie, Universität Innsbruck  
 
 [Julian Bothe](http://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=326)  
 Institut für Geographie, Ludwigs-Maximilian-Universität München  
 
-[Dr. Verena Brinks](https://digitalekulturen.uni-mainz.de/team/verena-brinks/)   
+[Jun.-Prof. Dr. Verena Brinks](https://digitalekulturen.uni-mainz.de/team/verena-brinks/)   
 Institut für Geographie, Universität Mainz
 
 [Dr. Annika Busch-Geertsema](http://www.uni-frankfurt.de/45862962/Kurzportrait)  
@@ -54,8 +54,8 @@ Institut für Humangeographie, Universität Frankfurt am Main
 [Leonie Büttner](https://www.ufz.de/index.php?de=46763)  
 Department Umweltpolitik, Helmholtz-Zentrum für Umweltforschung
 
-[Finn Dammann](http://www.geographie.nat.uni-erlangen.de/personen/finn-dammann/)  
-Institut für Geographie, Universität Erlangen-Nürnberg  
+[Dr. Finn Dammann](http://www.geographie.nat.uni-erlangen.de/personen/finn-dammann/)  
+Institut für Geographie, FAU Erlangen-Nürnberg  
 
 [Christian Dorsch](https://www.uni-frankfurt.de/45862947)  
 Institut für Humangeographie, Goethe-Universität Frankfurt
@@ -63,23 +63,23 @@ Institut für Humangeographie, Goethe-Universität Frankfurt
 [Yannick Ecker](https://blogs.urz.uni-halle.de/digigeo/mitarbeiterinnen/ecker/)  
 Universität Halle-Wittenberg
 
-[Christian Eichenmüller](http://www.geographie.nat.uni-erlangen.de/personen/christian-eichenmueller/)  
-Institut für Geographie, Universität Erlangen-Nürnberg
+[Dr. Christian Eichenmüller](http://www.geographie.nat.uni-erlangen.de/personen/christian-eichenmueller/)  
+Institut für Geographie & Department für Informatik, FAU Erlangen-Nürnberg
 
 [Dr. Tim Elrick](http://gic.geog.mcgill.ca)  
 Geographic Information Centre (GIC), McGill University, Montreal, Canada
 
-[Dr. Thilo Felgenhauer](http://pro.ph-ooe.at/tilo-felgenhauer.html)  
+[Prof. Dr. Thilo Felgenhauer](http://pro.ph-ooe.at/tilo-felgenhauer.html)  
 Pädagogische Hochschule Öberösterreich, Linz
 
-[Dr. Henning Füller](https://www.geographie.hu-berlin.de/de/Members/fueller_henning)  
+[Dr. habil. Henning Füller](https://www.geographie.hu-berlin.de/de/Members/fueller_henning)  
 Geographisches Institut, Humboldt-Universität zu Berlin
 
 [Jan Gemeinholzer](https://www.researchgate.net/profile/Jan_Gemeinholzer)  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
 [Prof. Dr. Georg Glasze](http://www.geographie.nat.uni-erlangen.de/personen/georg-glasze/)  
-Institut für Geographie, Universität Erlangen-Nürnberg
+Institut für Geographie, FAU Erlangen-Nürnberg
 
 [Prof. Dr. Francis Harvey](https://www.ifl-leipzig.de/de/das-ifl/mitarbeiter/harvey-francis.html)  
 Institut für Länderkunde Leipzig
@@ -91,7 +91,7 @@ Universität Bayreuth
 Institut für Geographie, Universität Mainz
 
 [Dr. Dominik Kremer](https://www.geography.nat.fau.eu/person/dominik-kremer/)  
-Unversität Erlangen-Nürnberg
+Department Digital Humanities & Social Studies, FAU Erlangen-Nürnberg
 
 [Florian Ledermann](https://cartography.tuwien.ac.at/florian-ledermann/)  
 TU Wien
@@ -120,7 +120,7 @@ Fachhochschule Westküste
 [Christina Reithmeier](https://www.uni-frankfurt.de/68718510/Kurzportrait)  
 Institut für Humangeographie, Goethe-Universität Frankfurt
 
-[Prof. Dr. Lizzie Richardson](https://www.uni-frankfurt.de/93140598/Profile)  
+[Jun.-Prof. Dr. Lizzie Richardson](https://www.uni-frankfurt.de/93140598/Profile)  
 Institut für Humangeographie, Goethe-Universität Frankfurt
 
 [Dr. Jörg Scheffer](http://www.phil.uni-passau.de/fachbereich-geographie/team/dr-joerg-scheffer/)  
@@ -141,7 +141,7 @@ Institut für Umweltsozialwissenschaften und Geographie, Universität Freiburg
 [Dr. Harald Sterly](http://www.geographie.uni-koeln.de/14236.html)  
 Institut für Geographie, Universität zu Köln
 
-[Till Straube](http://user.uni-frankfurt.de/~tstraube)  
+[Dr. Till Straube](http://user.uni-frankfurt.de/~tstraube)  
 Institut für Humangeographie, Universität Frankfurt am Main
 
 [Prof. Dr. Julia Verne](https://kulturgeographie-mainz.de/team/prof-dr-julia-verne/)  
